@@ -49,8 +49,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM:
 ```
-Developed by : Manoj .M
-Reg.no : 212221240027
+Developed by : Ajay A
+Reg.no : 212219040006
 Program to develop a neural network regression model..
 
 ### To Read CSV file from Google Drive :
